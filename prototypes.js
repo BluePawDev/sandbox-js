@@ -1,6 +1,5 @@
 
 
-// START Drill constructor
 function Drill(inUse, isCharged, bitType, bitSize, rotation){
   this.statusUse = inUse;
   this.statusCharge = isCharged;
